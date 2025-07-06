@@ -2,7 +2,7 @@
 layout: post
 title:  "Guarding the Code"
 date:   2024-09-16 00:26:48 +0530
-categories: jekyll update
+categories: post
 ---
 
 In the land of bytes and screens so bright,  

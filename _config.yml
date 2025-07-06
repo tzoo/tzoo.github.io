@@ -31,6 +31,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+minima:
+  skin: classic
+  include_css:
+    - "/assets/custom.css"
+
 plugins:
   - jekyll-feed
 
